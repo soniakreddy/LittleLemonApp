@@ -35,17 +35,6 @@ This is a simple iOS app developed for the **Little Lemon** restaurant. The app 
 4. Run the app:
 - Select a simulator or connect your iPhone and click the play button in Xcode to run the app.
 
-## Screenshots
-
-### Onboarding Screen
-![Onboarding](./assets/onboarding.png)
-
-### Home Screen
-![Home](./assets/home.png)
-
-### Profile Screen
-![Profile](./assets/profile.png)
-
 ## Feedback
 
 Your feedback on this app is highly appreciated! If you notice any issues or areas for improvement, please feel free to create an issue or submit a pull request.
