@@ -46,12 +46,6 @@ This is a simple iOS app developed for the **Little Lemon** restaurant. The app 
 ### Profile Screen
 ![Profile](./assets/profile.png)
 
-## How to Submit
-
-- Export your wireframe from Figma as a JPG.
-- Add the wireframe to your GitHub repository.
-- Provide the repository link and submit for peer review.
-
 ## Feedback
 
 Your feedback on this app is highly appreciated! If you notice any issues or areas for improvement, please feel free to create an issue or submit a pull request.
