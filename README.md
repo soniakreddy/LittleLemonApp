@@ -22,7 +22,7 @@ This is a simple iOS app developed for the **Little Lemon** restaurant. The app 
 1. Clone this repository:
    ```
    git clone https://github.com/soniakreddy/little-lemon-ios-app.git
-  ```
+   ```
 3. Open the project in Xcode:
 - Double-click `LittleLemon.xcodeproj` to open the project in Xcode.
 
